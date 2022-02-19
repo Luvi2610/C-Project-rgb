@@ -1,0 +1,14 @@
+#Directories that contain the rgb files
+video1
+video2
+
+#Directory that contains the python program to transform .rgb in .png
+converter
+
+#pdf with instructions
+Trabalho 3.pdf
+
+#Videos
+enunciado.mp4
+normal_video1.mp4
+normal_video2.mp4
